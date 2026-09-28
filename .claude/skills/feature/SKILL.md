@@ -1,6 +1,6 @@
 ---
 name: feature
-description: features/{feature명}/[{업무}_]{요구사항|분석설계|분석|설계|개발|디자인|SEO|법령준수|보안|배포|유지보수}.md (또는 features/{app명}/{feature명}/...) 파일에 prompt-before/prompt/prompt-after 프런트매터를 기록하며 관리한다. 파일 이름은 "요구사항.md"처럼 접두어 없이 쓸 수도, "홈화면_요구사항.md"처럼 {업무}_ 접두어를 붙여 같은 feature 폴더 안에서 여러 작업 갈래를 나눠 관리할 수도 있다 — 같은 폴더 안에 둘 다 섞여 있어도 된다. "feature 파일을 처리해", "*.md 파일을 처리해"라고 요청하면 사용. 이 두 문구가 없어도, features/ 아래 특정 파일을 근거로 삼아 작업을 지시하면(예: "features/사용자관리/요구사항.md 보고 로그인 기능 구현해", "개발.md의 3단계부터 이어서 작업해", "홈화면_개발.md 파일을 작성해") 즉시 이 스킬을 적용한다 — 실제 작업과 함께 그 지시를 프런트매터에 기록한다. prompt 스킬(prompts/NNN_이름.md 관례)의 개선판 — 이 프로젝트가 features/ 폴더 관례를 쓸 때만 적용하고, prompts/NNN_이름.md 번호식 관례를 쓰는 프로젝트는 prompt 스킬이 대신 담당한다.
+description: 'features/{feature명}/[{업무}_]{요구사항|분석설계|분석|설계|개발|디자인|SEO|법령준수|보안|배포|유지보수}.md (또는 features/{app명}/{feature명}/...) 파일에 prompt-before/prompt/prompt-after 프런트매터를 기록하며 관리한다. 파일 이름은 "요구사항.md"처럼 접두어 없이 쓸 수도, "홈화면_요구사항.md"처럼 {업무}_ 접두어를 붙여 같은 feature 폴더 안에서 여러 작업 갈래를 나눠 관리할 수도 있다 — 같은 폴더 안에 둘 다 섞여 있어도 된다. "feature 파일을 처리해", "*.md 파일을 처리해"라고 요청하면 사용. 이 두 문구가 없어도, features/ 아래 특정 파일을 근거로 삼아 작업을 지시하면(예: "features/사용자관리/요구사항.md 보고 로그인 기능 구현해", "개발.md의 3단계부터 이어서 작업해", "홈화면_개발.md 파일을 작성해") 즉시 이 스킬을 적용한다 — 실제 작업과 함께 그 지시를 프런트매터에 기록한다. prompt 스킬(prompts/NNN_이름.md 관례)의 개선판 — 이 프로젝트가 features/ 폴더 관례를 쓸 때만 적용하고, prompts/NNN_이름.md 번호식 관례를 쓰는 프로젝트는 prompt 스킬이 대신 담당한다.'
 ---
 
 # Feature Skill
