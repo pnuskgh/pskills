@@ -19,8 +19,8 @@
 - 디자인
 	-  designer : 디자이너
 		- Reserved : [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design), Apache 2.0 : React/Tailwind 디자인
-	- Reserved : ux-designer : UX 디자이너
-- 마케팅
+	- ux-designer : UX 디자이너
+- 영업/마케팅
 	- seo-manager : 검색엔진 최적화 관리자
 - 소셜/콘텐츠
 - 재무

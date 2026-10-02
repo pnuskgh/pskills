@@ -4,6 +4,7 @@
 .bun
 .bundle
 .cache
+.cargo
 .cmux
 .cmuxterm
 .cocoapods
@@ -38,6 +39,7 @@
 .pm2
 .pub-cache
 .putty
+.rustup
 .sdkman
 .ssh
 .swiftpm
@@ -83,12 +85,14 @@ zztemp
 .obsidian-cli.sock
 .profile
 .python_history
+.tcshrc
 .tmux.conf
 .viminfo
 .zcompdump
 .zcompdump.*
 .zprofile
 .zsh_history
+.zshenv
 .zshrc
 .zshrc.backup
 
